@@ -246,19 +246,3 @@ margin: 3rem 0 ;
     cursor: pointer;
     background-color: var(--secundarioOscuro);
 }
-.glass {
-    background: rgba( 255, 255, 255, 0.40 );
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 20.0px );
--webkit-backdrop-filter: blur( 20.0px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 );
-height: 50rem;
-border-radius: 20px;
-}
-.glass--texto {
-    font-family: var(--fuentePrincipal);
-    font-size: 20rem;
-    text-align: center;
-    justify-content: top    ;
-}
